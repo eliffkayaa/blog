@@ -1,0 +1,13 @@
+nav a {
+    display: inline-block;
+    color: #4b5563
+    text-decoration: none;
+    font-weight:600;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-left: 20px;
+    
+}
+nav a:hover{
+    color:#ffb5a7;
+}
